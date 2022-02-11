@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "collapse-filter": true,
   "search": "",
   "showTags": false,
@@ -6,6 +7,15 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
+=======
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+>>>>>>> Stashed changes
   "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
@@ -18,5 +28,9 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
+<<<<<<< Updated upstream
   "close": false
+=======
+  "close": true
+>>>>>>> Stashed changes
 }
