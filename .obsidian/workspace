@@ -7,8 +7,12 @@
         "id": "82098c82ce472ce8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Test.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +89,7 @@
   },
   "active": "82098c82ce472ce8",
   "lastOpenFiles": [
-    "TimTiest.md",
-    "Test.md"
+    "Test.md",
+    "TimTest.md"
   ]
 }
